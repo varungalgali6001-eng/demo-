@@ -1,1 +1,2 @@
-hello world
+hello
+Third line: practicing Git updates
